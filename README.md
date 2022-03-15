@@ -16,4 +16,4 @@ crete a block of code
 
 
 Embed Latex or MathML equations,
-$\frac{1}{n} \sum_{i=1}^{n} x_{i}$
+$\frac{1}{n}\sum_{i=1}^{n}x_{i}$
